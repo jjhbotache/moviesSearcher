@@ -1,7 +1,7 @@
 # Project Title
 
 ## Description
-This is a React application built with TypeScript. The application provides a movie listing feature.
+This is a React application built with TypeScript. The application provides a movie listing feature. This project consumes the [omdb api](https://www.omdbapi.com/)
 
 ## Pages
 - **Home**: This is the main page of the application. It uses the `Movies` component from [src/components/Movies.tsx](src/components/Movies.tsx) to display a list of movies.
