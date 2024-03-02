@@ -33,7 +33,7 @@ function App() {
         <hr />
         <form action="" onSubmit={handleSubmit} className='mb-5'>
             <div className="d-flex b btn-group">
-              <input ref={inputRef} type="text" name='movie' className="btn form-control border-bottom " placeholder="Put your movie here"/>
+              <input ref={inputRef} type="text" name='movie' className="btn form-control border-bottom text-light" placeholder="Put your movie here"/>
               <button type="submit" className="btn btn-primary">Search</button>
             </div>
         </form>
